@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="23"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="130.142">
+  <properties />
+  
+  
+            <testcase name="searchRecordStatus_3" time="2.239" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchName_1" time="1.743" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchName_2" time="2.218" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordStatus_2" time="2.481" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="invalidName_1" time="22.564" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordDivisions_2" time="2.669" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordStatus_1" time="2.078" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchDateModified_2" time="2.969" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="controlDisplayed" time="2.358" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="invalidDateCreated_1" time="21.784" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="statisticsDisplayed" time="0.198" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="invalidRecordDivisions_1" time="22.597" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordDivisions_4" time="2.076" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordDivisions_1" time="2.426" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchDisplayed" time="0.080" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchDateModified_1" time="2.895" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordDivisions_5" time="2.034" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="invalidRecordStatus_1" time="22.326" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordStatus_4" time="2.400" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchDateCreated_1" time="2.744" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchDateCreated_2" time="2.932" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchRecordDivisions_3" time="2.047" classname="com.qachallenge.test.regression.SearchTest" />
+                <testcase name="searchName_3" time="2.284" classname="com.qachallenge.test.regression.SearchTest" />
+      
+</testsuite>

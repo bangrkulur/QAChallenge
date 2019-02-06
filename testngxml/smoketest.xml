@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="QA Challenge" verbose="1">
+	<test name="Smoke Test">
+		<packages>
+			<package name="com.qachallenge.test.smoke" />
+		</packages>
+	</test>
+</suite>

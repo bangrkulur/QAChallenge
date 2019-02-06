@@ -1,0 +1,157 @@
+2019-02-05 16:10:25 INFO  DashboardDriver:30 com.qachallenge.DashboardDriver.beforeSuite - -------------------------------------------- STARTED --------------------------------------------
+2019-02-05 16:10:25 INFO  SeleniumDriver:112 com.seleniumframework.selenium.SeleniumDriver.getTestAutomationProperties - Initial Test Setup - Referring to Locaion = 'C:\Users\kiran\Desktop\For-Kiran\QAChallenge\qachallenge\config'
+2019-02-05 16:10:25 INFO  SeleniumDriver:113 com.seleniumframework.selenium.SeleniumDriver.getTestAutomationProperties - Initial Test Setup - Referring to File = 'Automation.properties'
+2019-02-05 16:10:25 INFO  DashboardDriver:39 com.qachallenge.DashboardDriver.beforeSuite - ------------------------------------------- COMPLETED -------------------------------------------
+2019-02-05 16:10:25 INFO  DashboardDriver:45 com.qachallenge.DashboardDriver.initializeSetup - Before Test is executing...
+2019-02-05 16:10:34 INFO  SeleniumDriver:215 com.seleniumframework.selenium.SeleniumDriver.chromeDriver - Chrome Driver initialized
+2019-02-05 16:10:34 INFO  SeleniumDriver:464 com.seleniumframework.selenium.SeleniumDriver.openUrl - Opening the URL : 'http://localhost:9000/'
+2019-02-05 16:10:37 INFO  DashboardDriver:49 com.qachallenge.DashboardDriver.initializeSetup - URL is opened.
+
+          URL : 'http://localhost:9000/'
+
+2019-02-05 16:10:37 INFO  DashboardDriver:50 com.qachallenge.DashboardDriver.initializeSetup - Before Test is executed.
+2019-02-05 16:10:37 INFO  SearchTest:26 com.qachallenge.test.regression.SearchTest.controlDisplayed - Control Test
+2019-02-05 16:10:39 INFO  SeleniumDriver:524 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element : 'Control Title' found for the Expression : 'By.xpath: //span[text()='Controls']'.
+2019-02-05 16:10:39 INFO  SeleniumDriver:530 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element 'Control Title' is displayed : 'By.xpath: //span[text()='Controls']'.
+2019-02-05 16:10:39 INFO  SeleniumDriver:524 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element : 'Control Sub-Heading' found for the Expression : 'By.xpath: //span[text()='Filter/Export']'.
+2019-02-05 16:10:39 INFO  SeleniumDriver:530 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element 'Control Sub-Heading' is displayed : 'By.xpath: //span[text()='Filter/Export']'.
+2019-02-05 16:10:39 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Control block is displayed
+2019-02-05 16:10:39 INFO  SearchTest:141 com.qachallenge.test.regression.SearchTest.invalidDateCreated_1 - Invalid Date Created Search - 09/17/1980
+2019-02-05 16:10:39 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:10:40 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:10:40 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:01 INFO  Dashboard:114 com.qachallenge.page.Dashboard.search - Not a valid input
+2019-02-05 16:11:01 INFO  SearchTest:132 com.qachallenge.test.regression.SearchTest.invalidName_1 - Invalid Name Search - 1
+2019-02-05 16:11:01 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:01 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:02 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:24 INFO  Dashboard:114 com.qachallenge.page.Dashboard.search - Not a valid input
+2019-02-05 16:11:24 INFO  SearchTest:122 com.qachallenge.test.regression.SearchTest.invalidRecordDivisions_1 - Invalid Record Divisions Search - Retired 
+2019-02-05 16:11:24 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:24 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:24 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:46 INFO  Dashboard:114 com.qachallenge.page.Dashboard.search - Not a valid input
+2019-02-05 16:11:46 INFO  SearchTest:127 com.qachallenge.test.regression.SearchTest.invalidRecordStatus_1 - Invalid Record Status Search - Delayed
+2019-02-05 16:11:46 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:46 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:11:47 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:08 INFO  Dashboard:114 com.qachallenge.page.Dashboard.search - Not a valid input
+2019-02-05 16:12:09 INFO  SearchTest:85 com.qachallenge.test.regression.SearchTest.searchDateCreated_1 - Date Created Search - 07/17/2015
+2019-02-05 16:12:09 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:09 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:09 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:11 INFO  Dashboard:98 com.qachallenge.page.Dashboard.searchbyDate - Count based on the Search -- 1
+2019-02-05 16:12:11 INFO  SearchTest:90 com.qachallenge.test.regression.SearchTest.searchDateCreated_2 - Date Created Search - 08/03/2015
+2019-02-05 16:12:11 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:12 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:12 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:14 INFO  Dashboard:98 com.qachallenge.page.Dashboard.searchbyDate - Count based on the Search -- 1
+2019-02-05 16:12:14 INFO  SearchTest:95 com.qachallenge.test.regression.SearchTest.searchDateModified_1 - Date Modified Search - 10/02/2015
+2019-02-05 16:12:14 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:14 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:15 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:17 INFO  Dashboard:98 com.qachallenge.page.Dashboard.searchbyDate - Count based on the Search -- 3
+2019-02-05 16:12:17 INFO  SearchTest:100 com.qachallenge.test.regression.SearchTest.searchDateModified_2 - Date Modified Search - 09/17/2015
+2019-02-05 16:12:17 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:17 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:18 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:20 INFO  Dashboard:98 com.qachallenge.page.Dashboard.searchbyDate - Count based on the Search -- 3
+2019-02-05 16:12:20 INFO  SearchTest:21 com.qachallenge.test.regression.SearchTest.searchDisplayed - Search Test
+2019-02-05 16:12:20 INFO  SeleniumDriver:524 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element : 'Search' found for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:20 INFO  SeleniumDriver:530 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element 'Search' is displayed : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:20 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Search is displayed
+2019-02-05 16:12:20 INFO  SearchTest:106 com.qachallenge.test.regression.SearchTest.searchName_1 - Name Search - 1
+2019-02-05 16:12:20 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:20 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:21 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:22 INFO  Dashboard:90 com.qachallenge.page.Dashboard.searchbyName - Count based on the Search -- 7
+2019-02-05 16:12:22 INFO  SearchTest:111 com.qachallenge.test.regression.SearchTest.searchName_2 - Name Search - 2
+2019-02-05 16:12:22 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:22 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:23 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:24 INFO  Dashboard:90 com.qachallenge.page.Dashboard.searchbyName - Count based on the Search -- 4
+2019-02-05 16:12:24 INFO  SearchTest:116 com.qachallenge.test.regression.SearchTest.searchName_3 - Name Search - 3
+2019-02-05 16:12:24 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:24 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:24 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:26 INFO  Dashboard:90 com.qachallenge.page.Dashboard.searchbyName - Count based on the Search -- 6
+2019-02-05 16:12:26 INFO  SearchTest:37 com.qachallenge.test.regression.SearchTest.searchRecordDivisions_1 - Record Divisions Search - Accounting
+2019-02-05 16:12:26 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:27 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:27 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:29 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Accounting' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'Accounting')]'.
+2019-02-05 16:12:29 INFO  Dashboard:55 com.qachallenge.page.Dashboard.searchRecordsDivison - Count on the Statistics section -- 4
+2019-02-05 16:12:29 INFO  Dashboard:58 com.qachallenge.page.Dashboard.searchRecordsDivison - Count based on the Search -- 4
+2019-02-05 16:12:29 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:29 INFO  SearchTest:42 com.qachallenge.test.regression.SearchTest.searchRecordDivisions_2 - Record Divisions Search - Administration
+2019-02-05 16:12:29 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:29 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:29 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:31 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Administration' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'Administration')]'.
+2019-02-05 16:12:31 INFO  Dashboard:55 com.qachallenge.page.Dashboard.searchRecordsDivison - Count on the Statistics section -- 9
+2019-02-05 16:12:31 INFO  Dashboard:58 com.qachallenge.page.Dashboard.searchRecordsDivison - Count based on the Search -- 9
+2019-02-05 16:12:31 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:31 INFO  SearchTest:47 com.qachallenge.test.regression.SearchTest.searchRecordDivisions_3 - Record Divisions Search - Marketing
+2019-02-05 16:12:32 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:32 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:32 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:33 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Marketing' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'Marketing')]'.
+2019-02-05 16:12:33 INFO  Dashboard:55 com.qachallenge.page.Dashboard.searchRecordsDivison - Count on the Statistics section -- 7
+2019-02-05 16:12:34 INFO  Dashboard:58 com.qachallenge.page.Dashboard.searchRecordsDivison - Count based on the Search -- 7
+2019-02-05 16:12:34 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:34 INFO  SearchTest:52 com.qachallenge.test.regression.SearchTest.searchRecordDivisions_4 - Record Divisions Search - Sales
+2019-02-05 16:12:34 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:34 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:34 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:35 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Sales' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'Sales')]'.
+2019-02-05 16:12:36 INFO  Dashboard:55 com.qachallenge.page.Dashboard.searchRecordsDivison - Count on the Statistics section -- 5
+2019-02-05 16:12:36 INFO  Dashboard:58 com.qachallenge.page.Dashboard.searchRecordsDivison - Count based on the Search -- 5
+2019-02-05 16:12:36 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:36 INFO  SearchTest:57 com.qachallenge.test.regression.SearchTest.searchRecordDivisions_5 - Record Divisions Search - Production
+2019-02-05 16:12:36 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:36 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:36 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:38 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Production' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'Production')]'.
+2019-02-05 16:12:38 INFO  Dashboard:55 com.qachallenge.page.Dashboard.searchRecordsDivison - Count on the Statistics section -- 5
+2019-02-05 16:12:38 INFO  Dashboard:58 com.qachallenge.page.Dashboard.searchRecordsDivison - Count based on the Search -- 5
+2019-02-05 16:12:38 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:38 INFO  SearchTest:63 com.qachallenge.test.regression.SearchTest.searchRecordStatus_1 - Record Status Search - New
+2019-02-05 16:12:38 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:38 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:38 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:40 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'new' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'new')]'.
+2019-02-05 16:12:40 INFO  Dashboard:73 com.qachallenge.page.Dashboard.searchRecordsStatus - Count on the Record Status section -- 4
+2019-02-05 16:12:40 INFO  Dashboard:76 com.qachallenge.page.Dashboard.searchRecordsStatus - Count based on the Search -- 4
+2019-02-05 16:12:40 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:40 INFO  SearchTest:68 com.qachallenge.test.regression.SearchTest.searchRecordStatus_2 - Record Status Search - Archived
+2019-02-05 16:12:40 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:40 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:40 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:42 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'archived' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'archived')]'.
+2019-02-05 16:12:42 INFO  Dashboard:73 com.qachallenge.page.Dashboard.searchRecordsStatus - Count on the Record Status section -- 9
+2019-02-05 16:12:42 INFO  Dashboard:76 com.qachallenge.page.Dashboard.searchRecordsStatus - Count based on the Search -- 9
+2019-02-05 16:12:42 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:42 INFO  SearchTest:73 com.qachallenge.test.regression.SearchTest.searchRecordStatus_3 - Record Status Search - Working
+2019-02-05 16:12:42 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:42 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:43 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:44 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'working' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'working')]'.
+2019-02-05 16:12:44 INFO  Dashboard:73 com.qachallenge.page.Dashboard.searchRecordsStatus - Count on the Record Status section -- 11
+2019-02-05 16:12:44 INFO  Dashboard:76 com.qachallenge.page.Dashboard.searchRecordsStatus - Count based on the Search -- 11
+2019-02-05 16:12:44 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:44 INFO  SearchTest:78 com.qachallenge.test.regression.SearchTest.searchRecordStatus_4 - Record Status Search - Delivered
+2019-02-05 16:12:44 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:45 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:45 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'Search' FOUND for the Expression : 'By.xpath: //input[@name='searchFilter']'.
+2019-02-05 16:12:47 INFO  SeleniumDriver:1263 com.seleniumframework.selenium.SeleniumDriver.findElement - Element : 'delivered' FOUND for the Expression : 'By.xpath: //p[@class='listItems ng-binding ng-scope' and contains(text(),'delivered')]'.
+2019-02-05 16:12:47 INFO  Dashboard:73 com.qachallenge.page.Dashboard.searchRecordsStatus - Count on the Record Status section -- 6
+2019-02-05 16:12:47 INFO  Dashboard:76 com.qachallenge.page.Dashboard.searchRecordsStatus - Count based on the Search -- 6
+2019-02-05 16:12:47 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Test Pass
+2019-02-05 16:12:47 INFO  SearchTest:31 com.qachallenge.test.regression.SearchTest.statisticsDisplayed - Statistics Test
+2019-02-05 16:12:47 INFO  SeleniumDriver:524 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element : 'Statistics Title' found for the Expression : 'By.xpath: //span[text()='Statistics']'.
+2019-02-05 16:12:47 INFO  SeleniumDriver:530 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element 'Statistics Title' is displayed : 'By.xpath: //span[text()='Statistics']'.
+2019-02-05 16:12:47 INFO  SeleniumDriver:524 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element : 'Statistics Sub-Heading' found for the Expression : 'By.xpath: //span[text()='high-level/summations']'.
+2019-02-05 16:12:47 INFO  SeleniumDriver:530 com.seleniumframework.selenium.SeleniumDriver.isElementPresentNDisplayed - Element 'Statistics Sub-Heading' is displayed : 'By.xpath: //span[text()='high-level/summations']'.
+2019-02-05 16:12:47 INFO  SeleniumDriver:299 com.seleniumframework.selenium.SeleniumDriver.passTest - PASS : Statistics block is displayed
+2019-02-05 16:12:47 INFO  DashboardDriver:55 com.qachallenge.DashboardDriver.postTearDown - After Test is executing...
+2019-02-05 16:12:49 INFO  DashboardDriver:57 com.qachallenge.DashboardDriver.postTearDown - After Test is executed.

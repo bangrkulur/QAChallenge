@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="QA Challenge Automation" verbose="1">
+	<test name="Regression Test">
+		<packages>
+			<package name="com.qachallenge.test.regression" />
+		</packages>
+	</test>
+</suite>
