@@ -1,4 +1,4 @@
-QA Challenge-
+QA Challenge Automation
 Requirements-
 1. JDK 1.8
 2. Maven 3.6.0
